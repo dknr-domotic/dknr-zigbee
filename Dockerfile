@@ -9,13 +9,13 @@ USER root
 ENV DKNR_USERNAME=admin \
       DKNR_PASSWORD=admin \
       DKNR_SECRET=dkzigbee \
-      DKNR_REPOSITORY=https://github.com/JcDenis/dknr-zigbee \
+      DKNR_REPOSITORY=https://github.com/dknr-domotic/dknr-zigbee \
       NODE_RED_ENABLE_PROJECTS=true \
       TZ=Europe/Paris
 
 # Image label
 LABEL org.opencontainers.image.authors="Jean-Christian Paul Denis" \
-      org.opencontainers.image.source="https://github.com/JcDenis/dknr-zigbee" \
+      org.opencontainers.image.source="https://github.com/dknr-domotic/dknr-zigbee" \
       org.opencontainers.image.title="DKNR Zigbee" \
       org.opencontainers.image.description="Zigbee2MQTT devices to DKNR MQTT with web UI" \
       org.opencontainers.image.licenses="AGPL-3.0"

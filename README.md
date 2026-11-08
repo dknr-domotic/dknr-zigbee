@@ -2,8 +2,8 @@
 
 [![Release](https://img.shields.io/docker/v/jcpd/dknr-zigbee?sort=semver)](https://img.shields.io/docker/v/jcpd/dknr-zigbee?sort=semver)
 [![Pull](https://img.shields.io/docker/pulls/jcpd/dknr-zigbee)](https://img.shields.io/docker/pulls/jcpd/dknr-zigbee)
-[![Issue](https://img.shields.io/github/issues/jcdenis/dknr-zigbee)](https://img.shields.io/github/issues/jcdenis/dknr-zigbee)
-[![License](https://img.shields.io/github/license/jcdenis/dknr-zigbee)](https://github.com/JcDenis/dknr-zigbee/blob/master/LICENSE)
+[![Issue](https://img.shields.io/github/issues/dknr-domotic/dknr-zigbee)](https://img.shields.io/github/issues/dknr-domotic/dknr-zigbee)
+[![License](https://img.shields.io/github/license/dknr-domotic/dknr-zigbee)](https://github.com/dknr-domotic/dknr-zigbee/blob/master/LICENSE)
 
 
 ## A propos
@@ -94,16 +94,16 @@ Au démarrage, l'état des appareils alimentés sur secteur est relu une fois s'
 
 ## Contribuer
 
-Ce projet est **open-source**, vous pouvez participer en créant des [tickets](https://github.com/JcDenis/dknr-zigbee/issues) ou en proposant de [requêtes](https://github.com/JcDenis/dknr-zigbee/pulls) sur le dépôt github du projet.
+Ce projet est **open-source**, vous pouvez participer en créant des [tickets](https://github.com/dknr-domotic/dknr-zigbee/issues) ou en proposant de [requêtes](https://github.com/dknr-domotic/dknr-zigbee/pulls) sur le dépôt github du projet.
 
 
 ## Voir aussi
 
-- [DKNR Teleinfo](https://github.com/JcDenis/dknr-teleinfo)
-- [DKNR APSystems](https://github.com/JcDenis/dknr-apsystems)
-- [DKNR Daikin](https://github.com/JcDenis/dknr-daikin)
-- [DKNR Zendure](https://github.com/JcDenis/dknr-zendure)
-- [DKNR RFXCom](https://github.com/JcDenis/dknr-rfxcom)
-- [DKNR Nuki](https://github.com/JcDenis/dknr-nuki)
+- [DKNR Teleinfo](https://github.com/dknr-domotic/dknr-teleinfo)
+- [DKNR APSystems](https://github.com/dknr-domotic/dknr-apsystems)
+- [DKNR Daikin](https://github.com/dknr-domotic/dknr-daikin)
+- [DKNR Zendure](https://github.com/dknr-domotic/dknr-zendure)
+- [DKNR RFXCom](https://github.com/dknr-domotic/dknr-rfxcom)
+- [DKNR Nuki](https://github.com/dknr-domotic/dknr-nuki)
 - [Zigbee2MQTT : topics et messages MQTT](https://www.zigbee2mqtt.io/guide/usage/mqtt_topics_and_messages.html)
 - [Zigbee2MQTT : exposes](https://www.zigbee2mqtt.io/guide/usage/exposes.html)
