@@ -10,6 +10,8 @@
 
 **dknr-zigbee** est un projet consacré au pilotage, à la récupération et à l'exploitation des données des appareils Zigbee en local. Ce projet s'appuie sur [Zigbee2MQTT](https://www.zigbee2mqtt.io/), qui gère la clé Zigbee et le réseau, et reprend ses appareils dans la même arborescence MQTT que les autres projets DKNR.
 
+La documentation détaillée est sur [dknr-domotic.github.io](https://dknr-domotic.github.io/sources/zigbee/).
+
 
 ## Fonctionnalités
 
